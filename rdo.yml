@@ -850,3 +850,9 @@ packages:
   maintainers:
   - chkumar@redhat.com
   - jpena@redhat.com
+- project: openstack-trove-ui
+  name: openstack-trove-ui
+  upstream: git://git.openstack.org/openstack/trove-dashboard
+  master-distgit: git://github.com/pdmack/openstack-trove-ui
+  maintainers:
+  - pmackinn@redhat.com
